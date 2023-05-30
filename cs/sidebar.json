@@ -5,15 +5,15 @@
         "children": [
             {
                 "innerHtml": "Stáhnutí",
-                "link": "/introduction/Stáhnutí.md"
+                "link": "/introduction/Stáhnutí"
             },
             {
                 "innerHtml": "Tvorba designu",
-                "link": "/introduction/Tvorba designu.md"
+                "link": "/introduction/Tvorba designu"
             },
             {
                 "innerHtml": "What is BEŠAMEL",
-                "link": "/introduction/What is BEŠAMEL.md"
+                "link": "/introduction/What is BEŠAMEL"
             }
         ]
     },
@@ -23,23 +23,23 @@
         "children": [
             {
                 "innerHtml": "01_Page layout",
-                "link": "/principy/01_Page layout.md"
+                "link": "/principy/01_Page layout"
             },
             {
                 "innerHtml": "02_Containers",
-                "link": "/principy/02_Containers.md"
+                "link": "/principy/02_Containers"
             },
             {
                 "innerHtml": "03_Background",
-                "link": "/principy/03_Background.md"
+                "link": "/principy/03_Background"
             },
             {
                 "innerHtml": "04_Design",
-                "link": "/principy/04_Design.md"
+                "link": "/principy/04_Design"
             },
             {
                 "innerHtml": "04_Responsiveness",
-                "link": "/principy/04_Responsiveness.md"
+                "link": "/principy/04_Responsiveness"
             }
         ]
     },
@@ -49,71 +49,71 @@
         "children": [
             {
                 "innerHtml": "Accordeon",
-                "link": "/components/Accordeon.md"
+                "link": "/components/Accordeon"
             },
             {
                 "innerHtml": "Badges",
-                "link": "/components/Badges.md"
+                "link": "/components/Badges"
             },
             {
                 "innerHtml": "Banner",
-                "link": "/components/Banner.md"
+                "link": "/components/Banner"
             },
             {
                 "innerHtml": "Buttons",
-                "link": "/components/Buttons.md"
+                "link": "/components/Buttons"
             },
             {
                 "innerHtml": "Cards",
-                "link": "/components/Cards.md"
+                "link": "/components/Cards"
             },
             {
                 "innerHtml": "Carousels",
-                "link": "/components/Carousels.md"
+                "link": "/components/Carousels"
             },
             {
                 "innerHtml": "Chips",
-                "link": "/components/Chips.md"
+                "link": "/components/Chips"
             },
             {
                 "innerHtml": "Dropdown",
-                "link": "/components/Dropdown.md"
+                "link": "/components/Dropdown"
             },
             {
                 "innerHtml": "Horizontal ruler",
-                "link": "/components/Horizontal ruler.md"
+                "link": "/components/Horizontal ruler"
             },
             {
                 "innerHtml": "Klávesy",
-                "link": "/components/Klávesy.md"
+                "link": "/components/Klávesy"
             },
             {
                 "innerHtml": "Leaders",
-                "link": "/components/Leaders.md"
+                "link": "/components/Leaders"
             },
             {
                 "innerHtml": "Navbar",
-                "link": "/components/Navbar.md"
+                "link": "/components/Navbar"
             },
             {
                 "innerHtml": "Tables",
-                "link": "/components/Tables.md"
+                "link": "/components/Tables"
             },
             {
                 "innerHtml": "Text",
-                "link": "/components/Text.md"
+                "link": "/components/Text"
             },
             {
                 "innerHtml": "Tiles",
-                "link": "/components/Tiles.md"
+                "link": "/components/Tiles"
             },
             {
                 "innerHtml": "Toolbar",
-                "link": "/components/Toolbar.md"
+                "link": "/components/Toolbar"
             },
             {
                 "innerHtml": "Vstupy",
-                "link": "/components/Vstupy.md"
+                "link": "/components/Vstupy"
             }
         ]
     }
