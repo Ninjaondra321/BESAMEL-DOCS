@@ -1,119 +1,119 @@
 [
     {
-        "innerHtml": "01_Introduction",
-        "link": "/01_Introduction",
+        "innerHtml": "introduction",
+        "link": "/introduction",
         "children": [
             {
                 "innerHtml": "Stáhnutí",
-                "link": "/01_Introduction/Stáhnutí.md"
+                "link": "/introduction/Stáhnutí.md"
             },
             {
                 "innerHtml": "Tvorba designu",
-                "link": "/01_Introduction/Tvorba designu.md"
+                "link": "/introduction/Tvorba designu.md"
             },
             {
                 "innerHtml": "What is BEŠAMEL",
-                "link": "/01_Introduction/What is BEŠAMEL.md"
+                "link": "/introduction/What is BEŠAMEL.md"
             }
         ]
     },
     {
-        "innerHtml": "02_Principy",
-        "link": "/02_Principy",
+        "innerHtml": "principy",
+        "link": "/principy",
         "children": [
             {
                 "innerHtml": "01_Page layout",
-                "link": "/02_Principy/01_Page layout.md"
+                "link": "/principy/01_Page layout.md"
             },
             {
                 "innerHtml": "02_Containers",
-                "link": "/02_Principy/02_Containers.md"
+                "link": "/principy/02_Containers.md"
             },
             {
                 "innerHtml": "03_Background",
-                "link": "/02_Principy/03_Background.md"
+                "link": "/principy/03_Background.md"
             },
             {
                 "innerHtml": "04_Design",
-                "link": "/02_Principy/04_Design.md"
+                "link": "/principy/04_Design.md"
             },
             {
                 "innerHtml": "04_Responsiveness",
-                "link": "/02_Principy/04_Responsiveness.md"
+                "link": "/principy/04_Responsiveness.md"
             }
         ]
     },
     {
-        "innerHtml": "03_Components",
-        "link": "/03_Components",
+        "innerHtml": "components",
+        "link": "/components",
         "children": [
             {
                 "innerHtml": "Accordeon",
-                "link": "/03_Components/Accordeon.md"
+                "link": "/components/Accordeon.md"
             },
             {
                 "innerHtml": "Badges",
-                "link": "/03_Components/Badges.md"
+                "link": "/components/Badges.md"
             },
             {
                 "innerHtml": "Banner",
-                "link": "/03_Components/Banner.md"
+                "link": "/components/Banner.md"
             },
             {
                 "innerHtml": "Buttons",
-                "link": "/03_Components/Buttons.md"
+                "link": "/components/Buttons.md"
             },
             {
                 "innerHtml": "Cards",
-                "link": "/03_Components/Cards.md"
+                "link": "/components/Cards.md"
             },
             {
                 "innerHtml": "Carousels",
-                "link": "/03_Components/Carousels.md"
+                "link": "/components/Carousels.md"
             },
             {
                 "innerHtml": "Chips",
-                "link": "/03_Components/Chips.md"
+                "link": "/components/Chips.md"
             },
             {
                 "innerHtml": "Dropdown",
-                "link": "/03_Components/Dropdown.md"
+                "link": "/components/Dropdown.md"
             },
             {
                 "innerHtml": "Horizontal ruler",
-                "link": "/03_Components/Horizontal ruler.md"
+                "link": "/components/Horizontal ruler.md"
             },
             {
                 "innerHtml": "Klávesy",
-                "link": "/03_Components/Klávesy.md"
+                "link": "/components/Klávesy.md"
             },
             {
                 "innerHtml": "Leaders",
-                "link": "/03_Components/Leaders.md"
+                "link": "/components/Leaders.md"
             },
             {
                 "innerHtml": "Navbar",
-                "link": "/03_Components/Navbar.md"
+                "link": "/components/Navbar.md"
             },
             {
                 "innerHtml": "Tables",
-                "link": "/03_Components/Tables.md"
+                "link": "/components/Tables.md"
             },
             {
                 "innerHtml": "Text",
-                "link": "/03_Components/Text.md"
+                "link": "/components/Text.md"
             },
             {
                 "innerHtml": "Tiles",
-                "link": "/03_Components/Tiles.md"
+                "link": "/components/Tiles.md"
             },
             {
                 "innerHtml": "Toolbar",
-                "link": "/03_Components/Toolbar.md"
+                "link": "/components/Toolbar.md"
             },
             {
                 "innerHtml": "Vstupy",
-                "link": "/03_Components/Vstupy.md"
+                "link": "/components/Vstupy.md"
             }
         ]
     }
