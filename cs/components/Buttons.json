@@ -1,1 +1,67 @@
-{"meta": {"title": "title", "description": "description", "keywords": "keywords", "author": "NoTime", "date": "date"}, "page": [{"type": "h1", "innerHtml": "Buttons"}, {"type": "p", "innerHtml": "Buttons are one of the first things you learn when learning html, so I assume, you already know this. There's nothing to it, just wrap what you want to have inside into button."}, {"type": "h1", "innerHtml": "Structure"}, {"type": "code", "innerHtml": "<button >Default</button>\n<button class=\"primary\">Primary</button>\n<button class=\"secondary\">Secondary</button>\n<button class=\"terciary\">Tertiary</button>\n<button class=\"plain\">Plain</button>\n", "language": "html  code", "sample": true}, {"type": "h1", "innerHtml": "Options"}, {"type": "h1", "innerHtml": "# Link button"}, {"type": "p", "innerHtml": "You can -of course- use a.btn.primary"}, {"type": "code", "innerHtml": "<a href=\"#\" class=\"btn primary\">Primary</a>\n<a href=\"#\" class=\"btn secondary\">Secondary</a>\n<a href=\"#\" class=\"btn terciary\">Tertiary</a>\n<a href=\"#\" class=\"btn plain\">Plain</a>\n", "language": "html  code", "sample": true}, {"type": "h1", "innerHtml": "# Large buttons"}, {"type": "code", "innerHtml": "<button class=\"primary \"> Hello Word <span class=\"g-icon\">arrow_forward</span></button>\n<button class=\"secondary\">Lorem ipsum <span class=\"g-icon\">arrow_forward</span></button>\n<button class=\"terciary\">Lorem ipsum <span class=\"g-icon\">arrow_forward</span></button>\n<button class=\"plain\">Lorem ipsum <span class=\"g-icon\">arrow_forward</span></button>\n", "language": "html  code", "sample": true}, {"type": "h1", "innerHtml": "Design guidelines"}, {"type": "code", "innerHtml": "a.btn,\na.button,\nbutton,\nselect {\n\n}\n\nbutton.primary,\na.btn.primary,\na.button.primary,\nselect.primary {\n\n}\n\na.btn.primary:hover,\na.button.primary:hover,\nbutton.primary:hover {\n\n}\n\nbutton.secondary,\na.btn.secondary,\na.button.secondary,\nselect.secondary {\n\n}\n\nbutton.secondary:hover,\na.btn.secondary:hover,\na.button.secondary:hover,\nselect.secondary:hover {\n\n}\n  \nbutton.terciary,\na.btn.terciary,\na.button.terciary,\nselect.terciary {\n\n}\n  \nbutton.terciary:hover,\na.btn.terciary:hover,\na.button.terciary:hover,\nselect.terciary:hover {\n\n}\n\nbutton.plain,\na.btn.plain,\na.button.plain,\n.icon-btn {\n\n}\n  \na.btn.plain:hover,\na.button.plain:hover,\nbutton.plain:hover {\n\n}\n\nbutton:disabled,\nselect:disabled {\n\n}\n\n", "language": "css", "sample": false}]}
+{
+    "meta": {
+        "title": "title",
+        "description": "description",
+        "keywords": "keywords",
+        "author": "NoTime",
+        "date": "date"
+    },
+    "page": [
+        {
+            "type": "h1",
+            "innerHtml": "Buttons"
+        },
+        {
+            "type": "p",
+            "innerHtml": "Buttons are one of the first things you learn when learning html, so I assume, you already know this. There's nothing to it, just wrap what you want to have inside into button."
+        },
+        {
+            "type": "h1",
+            "innerHtml": "Structure"
+        },
+        {
+            "type": "code",
+            "innerHtml": "<button >Default</button>\n<button class=\"primary\">Primary</button>\n<button class=\"secondary\">Secondary</button>\n<button class=\"terciary\">Tertiary</button>\n<button class=\"plain\">Plain</button>\n",
+            "language": "html  code",
+            "sample": true
+        },
+        {
+            "type": "h1",
+            "innerHtml": "Options"
+        },
+        {
+            "type": "h1",
+            "innerHtml": "# Link button"
+        },
+        {
+            "type": "p",
+            "innerHtml": "You can -of course- use a.btn.primary"
+        },
+        {
+            "type": "code",
+            "innerHtml": "<a href=\"#\" class=\"btn primary\">Primary</a>\n<a href=\"#\" class=\"btn secondary\">Secondary</a>\n<a href=\"#\" class=\"btn terciary\">Tertiary</a>\n<a href=\"#\" class=\"btn plain\">Plain</a>\n",
+            "language": "html  code",
+            "sample": true
+        },
+        {
+            "type": "h1",
+            "innerHtml": "# Large buttons"
+        },
+        {
+            "type": "code",
+            "innerHtml": "<button class=\"primary \"> Hello Word <span class=\"g-icon\">arrow_forward</span></button>\n<button class=\"secondary\">Lorem ipsum <span class=\"g-icon\">arrow_forward</span></button>\n<button class=\"terciary\">Lorem ipsum <span class=\"g-icon\">arrow_forward</span></button>\n<button class=\"plain\">Lorem ipsum <span class=\"g-icon\">arrow_forward</span></button>\n",
+            "language": "html  code",
+            "sample": true
+        },
+        {
+            "type": "h1",
+            "innerHtml": "Design guidelines"
+        },
+        {
+            "type": "code",
+            "innerHtml": "a.btn,\na.button,\nbutton,\nselect {\n\n}\n\nbutton.primary,\na.btn.primary,\na.button.primary,\nselect.primary {\n\n}\n\na.btn.primary:hover,\na.button.primary:hover,\nbutton.primary:hover {\n\n}\n\nbutton.secondary,\na.btn.secondary,\na.button.secondary,\nselect.secondary {\n\n}\n\nbutton.secondary:hover,\na.btn.secondary:hover,\na.button.secondary:hover,\nselect.secondary:hover {\n\n}\n  \nbutton.terciary,\na.btn.terciary,\na.button.terciary,\nselect.terciary {\n\n}\n  \nbutton.terciary:hover,\na.btn.terciary:hover,\na.button.terciary:hover,\nselect.terciary:hover {\n\n}\n\nbutton.plain,\na.btn.plain,\na.button.plain,\n.icon-btn {\n\n}\n  \na.btn.plain:hover,\na.button.plain:hover,\nbutton.plain:hover {\n\n}\n\nbutton:disabled,\nselect:disabled {\n\n}\n\n",
+            "language": "css",
+            "sample": false
+        }
+    ]
+}
